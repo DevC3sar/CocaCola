@@ -1,4 +1,3 @@
-Descrição:
 O projeto "Coca-Cola Website Template" é um modelo de site criado utilizando tecnologias web modernas, incluindo HTML, CSS e JavaScript. O objetivo principal é fornecer uma estrutura elegante e responsiva para um site da Coca-Cola, permitindo fácil personalização para atender às necessidades específicas da marca.
 
 Recursos Principais:
